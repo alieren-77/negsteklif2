@@ -1,0 +1,7 @@
+{
+  "name": "Copy of NEGS Tech - UPS Proposal & Analysis",
+  "description": "A professional interactive technical analysis and quotation system for UPS (Uninterruptible Power Supply) solutions, featuring a smart advisor powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
